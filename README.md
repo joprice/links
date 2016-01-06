@@ -6,3 +6,6 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ##go
 http://dominik.honnef.co/posts/2014/12/an_incomplete_list_of_go_tools/
+
+## Machine Learning
+http://auai.org/uai2014/proceedings/individuals/159.pdf
