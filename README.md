@@ -21,10 +21,6 @@ http://auai.org/uai2014/proceedings/individuals/159.pdf
 ###scala on android
 
 * https://github.com/wvandrunen/android-on-scala-playground
-* https://github.com/dei-tasks/dei-tasks-android
-
-#### Examples 
-
 * https://github.com/shadowsocks/shadowsocks-android
 * https://github.com/amulcahy/mcOptCal
 * https://github.com/geeksville/arduleader
@@ -33,4 +29,6 @@ http://auai.org/uai2014/proceedings/individuals/159.pdf
 * https://github.com/slashmili/Zendroid
 * https://github.com/n8han/shouty
 * https://github.com/jberkel/gist-it
+* https://github.com/jamontes79/movieList
+* https://github.com/dei-tasks/dei-tasks-android
 
