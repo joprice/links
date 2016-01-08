@@ -19,6 +19,9 @@ http://deepmind.com/publications.html
 * [HTextView](https://github.com/hanks-zyh/HTextView) - text effects
 * [activity state tips](http://www.101apps.co.za/index.php/articles/persisting-the-activity-instance-state.html)
 
+## design
+*http://www.materialup.com/
+
 ###scala on android
 
 * https://github.com/wvandrunen/android-on-scala-playground
