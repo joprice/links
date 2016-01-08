@@ -9,6 +9,7 @@ http://dominik.honnef.co/posts/2014/12/an_incomplete_list_of_go_tools/
 
 ## Machine Learning
 http://auai.org/uai2014/proceedings/individuals/159.pdf
+http://deepmind.com/publications.html
 
 ## Android
 
@@ -33,5 +34,7 @@ http://auai.org/uai2014/proceedings/individuals/159.pdf
 * https://github.com/dei-tasks/dei-tasks-android
 
 ## scala
-[Propositional login in SBT](http://www.scala-sbt.org/0.13/sxr/sbt/logic/Logic.scala.html)
-
+* [Propositional login in SBT](http://www.scala-sbt.org/0.13/sxr/sbt/logic/Logic.scala.html)
+* [probability monad](https://github.com/jliszka/probability-monad)
+* [akka-crdt](https://github.com/jboner/akka-crdt)
+* [bayes-scala](https://github.com/danielkorzekwa/bayes-scala)
