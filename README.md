@@ -32,3 +32,6 @@ http://auai.org/uai2014/proceedings/individuals/159.pdf
 * https://github.com/jamontes79/movieList
 * https://github.com/dei-tasks/dei-tasks-android
 
+## scala
+[Propositional login in SBT](http://www.scala-sbt.org/0.13/sxr/sbt/logic/Logic.scala.html)
+
