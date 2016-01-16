@@ -40,7 +40,9 @@ http://deepmind.com/publications.html
 * https://github.com/phatak-dev/Scala-android-apps
 
 ## scala
+* [functor types](http://blog.tmorris.net/posts/functors-and-things-using-scala/index.html)
 * [Propositional login in SBT](http://www.scala-sbt.org/0.13/sxr/sbt/logic/Logic.scala.html)
 * [probability monad](https://github.com/jliszka/probability-monad)
 * [akka-crdt](https://github.com/jboner/akka-crdt)
 * [bayes-scala](https://github.com/danielkorzekwa/bayes-scala)
+
