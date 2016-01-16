@@ -41,6 +41,7 @@ http://deepmind.com/publications.html
 
 ## scala
 * [functor types](http://blog.tmorris.net/posts/functors-and-things-using-scala/index.html)
+* [scala typeclass hierarchy](http://blog.tmorris.net/posts/scala-type-class-hierarchy/index.html)
 * [Propositional login in SBT](http://www.scala-sbt.org/0.13/sxr/sbt/logic/Logic.scala.html)
 * [probability monad](https://github.com/jliszka/probability-monad)
 * [akka-crdt](https://github.com/jboner/akka-crdt)
