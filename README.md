@@ -40,6 +40,7 @@ http://deepmind.com/publications.html
 * https://github.com/phatak-dev/Scala-android-apps
 
 ## scala
+* [Herding Cats](http://eed3si9n.com/herding-cats)
 * [functor types](http://blog.tmorris.net/posts/functors-and-things-using-scala/index.html)
 * [scala typeclass hierarchy](http://blog.tmorris.net/posts/scala-type-class-hierarchy/index.html)
 * [Propositional login in SBT](http://www.scala-sbt.org/0.13/sxr/sbt/logic/Logic.scala.html)
