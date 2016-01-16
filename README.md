@@ -18,6 +18,8 @@ http://deepmind.com/publications.html
 * [Lazy](https://github.com/l123456789jy/Lazy) - lots of utils
 * [HTextView](https://github.com/hanks-zyh/HTextView) - text effects
 * [activity state tips](http://www.101apps.co.za/index.php/articles/persisting-the-activity-instance-state.html)
+* [Android Lollipop Widget Tinting Guide](https://gist.github.com/seanKenkeremath/c945c39cdf92af138395)
+* https://github.com/tbarsbay/Dropbox-Material-Concept
 
 ## design
 *http://www.materialup.com/
@@ -35,6 +37,7 @@ http://deepmind.com/publications.html
 * https://github.com/jberkel/gist-it
 * https://github.com/jamontes79/movieList
 * https://github.com/dei-tasks/dei-tasks-android
+* https://github.com/phatak-dev/Scala-android-apps
 
 ## scala
 * [Propositional login in SBT](http://www.scala-sbt.org/0.13/sxr/sbt/logic/Logic.scala.html)
