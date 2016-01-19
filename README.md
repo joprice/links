@@ -21,8 +21,6 @@ http://deepmind.com/publications.html
 * [Android Lollipop Widget Tinting Guide](https://gist.github.com/seanKenkeremath/c945c39cdf92af138395)
 * https://github.com/tbarsbay/Dropbox-Material-Concept
 
-## design
-*http://www.materialup.com/
 
 ###scala on android
 
@@ -48,3 +46,8 @@ http://deepmind.com/publications.html
 * [akka-crdt](https://github.com/jboner/akka-crdt)
 * [bayes-scala](https://github.com/danielkorzekwa/bayes-scala)
 
+## design
+* http://www.materialup.com/
+
+## rust
+* http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html
