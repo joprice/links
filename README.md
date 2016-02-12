@@ -46,8 +46,22 @@ http://deepmind.com/publications.html
 * [akka-crdt](https://github.com/jboner/akka-crdt)
 * [bayes-scala](https://github.com/danielkorzekwa/bayes-scala)
 
+## sbt plugin
+* https://github.com/refried/newfangled
+
 ## design
 * http://www.materialup.com/
 
 ## rust
-* http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html
+* [accepting strings](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html)
+* [returning strings](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html)
+* [serialization](https://github.com/serde-rs/serde)
+* [numeric types](https://github.com/rust-num/num)
+* [aho-corasick](https://github.com/BurntSushi/aho-corasick)
+* [vec-map](https://github.com/contain-rs/vec-map)
+* [difference](https://github.com/johannhof/difference.rs)
+* [bitflags](https://crates.io/crates/bitflags/)
+* [crossbeam](https://github.com/aturon/crossbeam)
+* [nom - zero-copy parser combinators](https://github.com/Geal/nom)
+
+
