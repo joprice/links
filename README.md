@@ -4,7 +4,7 @@
 https://guides.github.com/features/mastering-markdown/
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-##go
+## go
 http://dominik.honnef.co/posts/2014/12/an_incomplete_list_of_go_tools/
 
 ## Machine Learning
@@ -22,7 +22,7 @@ http://deepmind.com/publications.html
 * https://github.com/tbarsbay/Dropbox-Material-Concept
 
 
-###scala on android
+### scala on android
 
 * https://github.com/wvandrunen/android-on-scala-playground
 * https://github.com/shadowsocks/shadowsocks-android
@@ -64,4 +64,7 @@ http://deepmind.com/publications.html
 * [crossbeam](https://github.com/aturon/crossbeam)
 * [nom - zero-copy parser combinators](https://github.com/Geal/nom)
 
+
+## Art 
+* http://www.jimwoodring.com/artwork/gallery
 
