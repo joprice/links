@@ -66,6 +66,7 @@ http://deepmind.com/publications.html
 
 ## cpp
 * https://stackoverflow.com/questions/2298242/callback-functions-in-c
+* https://learnxinyminutes.com/docs/c++/
 
 ## Art 
 * http://www.jimwoodring.com/artwork/gallery
