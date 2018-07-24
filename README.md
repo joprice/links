@@ -63,6 +63,7 @@ http://dominik.honnef.co/posts/2014/12/an_incomplete_list_of_go_tools/
 ## cpp
 * https://stackoverflow.com/questions/2298242/callback-functions-in-c
 * https://learnxinyminutes.com/docs/c++/
+* https://github.com/AnthonyCalandra/modern-cpp-features
 
 ## Art 
 * http://www.jimwoodring.com/artwork/gallery
